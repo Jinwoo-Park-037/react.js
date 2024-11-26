@@ -1,0 +1,75 @@
+
+{
+    "coffee": [
+        {
+            "name" : "아메리카노",
+            "price_medium" : 1500,
+            "price_large" : 2500
+        },
+        {
+            "name" : "카페라떼",
+            "price_medium" : 2500,
+            "price_large" : 3000
+        },
+        {
+            "name" : "카푸치노",
+            "price_medium" : 2500,
+            "price_large" : 3000
+        },
+        {
+            "name" : "바닐라라떼",
+            "price_medium" : 3000,
+            "price_large" : 3500
+        }
+    ],
+
+    "tea" : [
+        {
+            "name" : "얼그레이",
+            "price_medium" : 3500,
+            "price_large" : 4000
+        },
+        {
+            "name" : "자스민",
+            "price_medium" : 3500,
+            "price_large" : 4000
+        },
+        {
+            "name" : "녹차",
+            "price_medium" : 3000,
+            "price_large" : 3500
+        },
+        {
+            "name" : "유자차/레몬/페퍼민트",
+            "price_medium" : 3000,
+            "price_large" : 3500
+        }
+
+    ],
+
+    "desserts" : [
+        {
+            "name" : "뉴욕 치즈케이크",
+            "price" : 3000
+        },
+        {
+            "name" : "딸기 생크림 와플",
+            "price" : 3500
+        },
+        {
+            "name" : "휘낭시에",
+            "price" : 2500
+        }
+    ]
+
+
+}
+
+
+
+
+
+
+
+
+
